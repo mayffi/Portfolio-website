@@ -1,3 +1,3 @@
-# Portfolio-website
-About me. This website will have information about me,links to the projects I have worked on and my goals.
-Still working on this. Going to add more information and javascript as I continue to learn more
+# Portfolio-website-practice
+I will later use this as a template to create my own portfolioo website, which will have information about me,links to the projects I have worked on and my goals.
+Going to add more information and javascript as I continue to learn more
